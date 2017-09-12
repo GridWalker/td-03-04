@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+-->
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <header> <h1>Titre de l'entete de la page </h1> </header>
+    <nav>    
+        <ol><li>Accueil</li>
+            <li>Services</li>
+            <li>Partenaires</li>
+            <li>Contact</li></ol>
+    </nav>    
+        <h2>Titre de la section</h2>
+        <h3>Titre de l'article 1</h3>
+        <header>hsfdhafgadfgjdfbnasbaerbnaebfnafbrnafbnadfibnadifnbadfnbaidfnbadfbnadfnbabnabnadibnaidfnbadnbaidfnbadifbnafnb</header>
+        <h3>Titre de l'article 2</h3>
+        <aside>jfvgadfgnaidbnaibnainbajindvasdnvajnvainvadkvna;argâGAsdfbvnadfbnadfb anvfarviafdbvafdnb oefnNVGADBN</aside>
+        <footer>Migos is the shit</footer>
+        <nav>Every thing hit, juste give me a minute i'ma hit and quit it</nav>
+    </body>
+</html>
